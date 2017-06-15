@@ -9,8 +9,8 @@ import logging
 import signal
 import sys
 
-optionA = "Docker"
-optionB = "Quilt"
+optionA = "Docker!"
+optionB = "Quilt!"
 name = optionA + " VS " + optionB
 
 redis = Redis(host="redis", db=0)
